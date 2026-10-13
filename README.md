@@ -1,6 +1,5 @@
 # deGremlin
 ##### A tool to decrypt and patch strings obfuscated with Appfuscator. Tested on Gremlin Stealer.
-<img src="images/clown.png" alt="Clown" width="400" height="300">
 
 
 
